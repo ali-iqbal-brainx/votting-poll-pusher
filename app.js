@@ -3,12 +3,10 @@ const path = require('path');
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
-// DB Config
-require('./config/db');
 
 const app = express();
 
-const poll = require('./routes/poll');
+const poll = require("./routes/poll");
 
 // Set public folder
 app.use(express.static(path.join(__dirname, 'public')));
