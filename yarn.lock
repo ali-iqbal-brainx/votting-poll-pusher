@@ -9,6 +9,7 @@
   dependencies:
     "@types/node" "*"
 
+
 "@types/mongodb@^3.5.27":
   "integrity" "sha512-WcdpPJCakFzcWWD9juKoZbRtQxKIMYF/JIAM4JrNHrMcnJL6/a2NWjXxW7fo9hxboxxkg+icff8d7+WIEvKgYQ=="
   "resolved" "https://registry.npmjs.org/@types/mongodb/-/mongodb-3.6.20.tgz"

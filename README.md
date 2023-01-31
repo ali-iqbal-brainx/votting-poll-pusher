@@ -7,7 +7,7 @@
 Edit the config/keys.js file and add your MongoDB URI and Pusher key info
 
 ```bash
-# Install dependencies
+# Install dependencies.
 npm install
 
 # Run dev server localhost:3000
